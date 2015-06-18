@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Connect Game</string>
+    <string name="drawMessage">Draw, try again!</string>
+    <string name="crossMessage">Cross Wins!</string>
+    <string name="circleMessage">Circle Wins!</string>
+    <string name="cross">x</string>
+    <string name="circle">o</string>
+    <string name="wrongPlaceMessage">You can\'t put a piece here.</string>
+    <string name="cols">Columns: </string>
+    <string name="rows">Rows:</string>
+    <string name="winNumber">Connect &#8230;?</string>
+    <string name="gravity">Gravity</string>
+    <string name="rotationGravity">Rotation gravity</string>
+    <string name="enclose">Enclose modus</string>
+    <string name="done">Done</string>
+    <string name="defaultRows">5</string>
+    <string name="defaultCols">7</string>
+    <string name="defaultConnect">4</string>
+    <string name="infoMessage">Created by Tjen Wellens</string>
+    <string name="resetMessage">Game reset.</string>
+    <string name="rotateClockwiseMessage">Game rotated clockwise.</string>
+    <string name="rotateCounterClockwiseMessage">Game rotated counter-clockwise.</string>
+
+</resources>
